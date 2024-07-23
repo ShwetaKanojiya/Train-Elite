@@ -1,7 +1,8 @@
 # Train Elite - A Training Schedule Management System
 
  It is a system that helps companies to keep track of schedules of all the trainings happening in the organization/firm. The system developed using C++ language and would provide a command line interface to the end user.
-
+ 
+![](https://github.com/ShwetaKanojiya/Train-Elite/blob/main/Training-Schedule-Management-main/Project_Flies/Train-Elite.PNG)
 ## Functional Requirements
 The users of the application are:
 1. Admin - Creates and updated schedules of trainings happening on daily basis. 
